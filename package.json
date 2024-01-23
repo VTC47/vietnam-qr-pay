@@ -10,10 +10,6 @@
     "release": "yarn build && yarn publish",
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/xuannghia/vietnam-qr-pay.git"
-  },
   "keywords": [
     "vietqr",
     "vnpayqr",
@@ -21,12 +17,7 @@
     "napas247",
     "qr-pay"
   ],
-  "author": "xuannghia <xuannghia.dev@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/xuannghia/vietnam-qr-pay/issues"
-  },
-  "homepage": "https://github.com/xuannghia/vietnam-qr-pay#readme",
   "files": [
     "dist"
   ],
